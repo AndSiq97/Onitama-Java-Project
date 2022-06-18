@@ -1,0 +1,7 @@
+# Ignore IDE settings
+.idea/
+.classpath
+.project
+Assignment1.iml
+# Ignore class files
+out/
